@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-p0gd18hxh). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-proof-section-P3Edn8V6h). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -20,7 +20,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Repository](https://github.com/NAZIRwill29/social-proof-section)
-- Live Site URL: [NFT preview card component Challenge - Github](https://nazirwill29.github.io/nft-preview-card-component/)
+- Live Site URL: [NFT preview card component Challenge - Github](https://social-proof-section-mdnazir.netlify.app/)
 
 ## My process
 
